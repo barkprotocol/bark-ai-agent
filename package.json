@@ -72,7 +72,7 @@
     "@types/react": "latest",
     "ai": "latest",
     "assert": "^2.1.0",
-    "axios": "^1.7.9",
+    "axios": "^1.8.2",
     "browserify-zlib": "^0.2.0",
     "bs58": "^6.0.0",
     "class-variance-authority": "^0.7.1",
